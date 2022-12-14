@@ -1,0 +1,100 @@
+id: 38a38673d05542eaadcf8a7f424bd032
+annotation_type: Segment
+revision: '00001'
+annotations:
+  8bc9eab5d8f543e5801be42b4665b299:
+    span:
+      start: 0
+      end: 49
+  27f9f4327b2f43beb14b90aa94c1b3fd:
+    span:
+      start: 51
+      end: 101
+  3d5c3c74406d4e19af51e61895f89b36:
+    span:
+      start: 103
+      end: 135
+  502697503bf548c5ab6209f13014ad6a:
+    span:
+      start: 137
+      end: 349
+  83172e8cfcd440adaad686694fd33184:
+    span:
+      start: 351
+      end: 426
+  6f0dee6c468e4089b4ee3234ee819fb2:
+    span:
+      start: 428
+      end: 533
+  bc809ddc62d1495d8a1649e9fcb10260:
+    span:
+      start: 535
+      end: 546
+  aeb2c2b6f2a14b409f228cea9b7bbd25:
+    span:
+      start: 548
+      end: 665
+  4c46ab91b3fa425ca3a68f08594c7a26:
+    span:
+      start: 667
+      end: 751
+  ebd5d28e9c6a43ae8dab35fc96c8eb54:
+    span:
+      start: 753
+      end: 840
+  78fc8f8b42604c64b59b7f8c2642b717:
+    span:
+      start: 842
+      end: 928
+  f7cb089184c74f748d724b923b0fd657:
+    span:
+      start: 930
+      end: 1038
+  9be86630025f45d3a6a08e65ecc3bc73:
+    span:
+      start: 1040
+      end: 1104
+  5b1744e702404d9e8da5a9494e954447:
+    span:
+      start: 1106
+      end: 1220
+  589df511dde94067a0350441edd3cfec:
+    span:
+      start: 1222
+      end: 1285
+  97b69bc2d4204fce99a12d6f3189c472:
+    span:
+      start: 1287
+      end: 1302
+  46221d14a5fa409ca69c9137149a296d:
+    span:
+      start: 1304
+      end: 1317
+  ffe5b04b2c114c1da97d7863d023947f:
+    span:
+      start: 1319
+      end: 1334
+  82720f64bc0b41fe96d3e5771719ebb2:
+    span:
+      start: 1336
+      end: 1348
+  ca51d11398da4797a2b2d50e6f7e0909:
+    span:
+      start: 1350
+      end: 1404
+  e5894083d3e049bda8bff8f925bc8fb0:
+    span:
+      start: 1406
+      end: 1445
+  5010485af52b4e0496cc93fce0fc5ce2:
+    span:
+      start: 1447
+      end: 1667
+  32fb64c6a9df43198a0940de881ab6e0:
+    span:
+      start: 1669
+      end: 1731
+  4ec56503cd7545548e9200789e9a2f6e:
+    span:
+      start: 1733
+      end: 1935

@@ -1,0 +1,25 @@
+id: ICF1D95FB
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:12:22.037703+00:00
+last_modified: 2022-12-14 18:12:22.037710+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-066-007
+  title: Toh_249-The_Sutra_Teaching_the_Four_Factors-v2
+bases:
+  FD60:
+    source_metadata: null
+    order: 1
+    base_file: FD60.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
